@@ -1,0 +1,2 @@
+# shopkompyuta
+tienda virtual
